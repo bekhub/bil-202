@@ -1,5 +1,6 @@
 *.o
 *.out
+*.class
 .vscode
 docs
 *.zip
